@@ -83,8 +83,8 @@ sudo apt-get install gnome-shell-extensions -y
 mkdir ~/.themes && mkdir ~/.icons
 mv -v ~/ParcaOs/Customization/parcatheme/ ~/.themes
 mv -v ~/ParcaOs/Customization/parcacursor/ ~/.icons
-mv -v ~/ParcaOs/Customization/McMojave-circle-red ~/.themes
-mv -v ~/ParcaOs/Customization/McMojave-circle-red-dark ~/.themes
+mv -v ~/ParcaOs/Customization/McMojave-circle-red ~/.icons
+mv -v ~/ParcaOs/Customization/McMojave-circle-red-dark ~/.icons
 
 sudo cp -R ~/ParcaOs/Media/bg-image1.jpg //usr/share/backgrounds/
 gsettings set org.gnome.desktop.background picture-uri  file:////usr/share/backgrounds/bg-image1.jpg
