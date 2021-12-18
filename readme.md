@@ -27,7 +27,7 @@ sudo chmod +777 install.sh
 
 Now in your terminal you must see a message about your username of ubuntu like this:
 
-![terminal-image](/Media/terminal-info.png)
+<img src="./Media/terminal-info.png"></img>
 
 After enter your username. If you don't remember, just put the next command in your terminal:
 
@@ -37,3 +37,23 @@ echo $USER
 ```
 
 And yeah, it will be all. Now just wait for complete the installation. In some cases you will be a prompt open askin about a installation confirmation. **Just put "ok" or "y"**, it depends the situation.
+
+### Customization
+
+Now after install completely all, it's time to modify our UI. For that we need to open our aplications and search for "Tweaks", if you have your system in spanish it could appear as "Retoques". Here we need to see something like this:
+
+<img src="./Media/gnome-tweaks1.png"></img>
+
+So here you have diferents options for customization. Actually I just installed my personal theme.
+
+| Section      | File              |
+| ------------ | ----------------- |
+| Applications | Parcatheme        |
+| Cursor       | Parcacursor       |
+| Icons        | WhiteSur-red-dark |
+
+After all, to activate our shell customization, we just need to go "Extensions" and activate "user-themes".
+
+<img src="./Media/gnome-tweaks3.png"></img>
+
+At this point we select "Parcatheme" on Shell layer customization and we finish.
