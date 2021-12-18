@@ -29,10 +29,15 @@ sudo snap install color-picker
 sudo snap install spotify
 
 # Sublime Text
+wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+sudo apt-get install apt-transport-https -y
+echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+sudo apt-get update -y; sudo apt-get install sublime-text
 
 # Atom
-
-# Zsh
+wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add
+sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
+sudo apt-get update -y; sudo apt install atom -y
 
 # Wine
 sudo apt-get install wine64 -y
