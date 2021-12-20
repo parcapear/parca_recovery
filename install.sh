@@ -76,6 +76,9 @@ sudo apt-get install software-properties-common -y
 sudo apt-get install virtualbox-ext-pack
 sudo apt update -y
 
+# Okular (PDF)
+sudo apt-get install okular -y
+
 # --------------------------------------------------// Customization //--------------------------------------------------
 sudo apt-get install gnome-tweaks -y
 sudo apt-get install gnome-shell-extensions -y
