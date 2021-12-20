@@ -52,6 +52,9 @@ sudo add-apt-repository 'deb https://typora.io/linux ./'
 sudo apt-get update
 sudo apt-get install typora -y
 
+cp -R ~/ParcaOs/Customization/Typora/notes-dark ~/.config/Typora/themes
+cp -R ~/ParcaOs/Customization/Typora/notes-dark.css ~/.config/Typora/themes
+
 # Vim
 sudo apt install vim -y
 
