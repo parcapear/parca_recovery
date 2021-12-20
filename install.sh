@@ -79,6 +79,9 @@ sudo apt update -y
 # Okular (PDF)
 sudo apt-get install okular -y
 
+# Bitwarde
+sudo snap install bitwarden
+
 # --------------------------------------------------// Customization //--------------------------------------------------
 sudo apt-get install gnome-tweaks -y
 sudo apt-get install gnome-shell-extensions -y
