@@ -42,18 +42,18 @@ And yeah, it will be all. Now just wait for complete the installation. In some c
 
 Now after install completely all, it's time to modify our UI. For that we need to open our aplications and search for "Tweaks", if you have your system in spanish it could appear as "Retoques". Here we need to see something like this:
 
-<img src="./Media/gnome-tweaks1.png"></img>
+<img src="./gnome-tweaks1.png"></img>
 
 So here you have diferents options for customization. Actually I just installed my personal theme.
 
-| Section      | File              |
-| ------------ | ----------------- |
-| Applications | Parcatheme        |
-| Cursor       | Parcacursor       |
-| Icons        | WhiteSur-red-dark |
+| Section          | File              |
+| ---------------- | ----------------- |
+| **Applications** | Parcatheme        |
+| **Cursor**       | Parcacursor       |
+| **Icons**        | WhiteSur-red-dark |
 
 After all, to activate our shell customization, we just need to go "Extensions" and activate "user-themes".
 
-<img src="./Media/gnome-tweaks3.png"></img>
+<img src="./gnome-tweaks3.png"></img>
 
-At this point we select "Parcatheme" on Shell layer customization and we finish.
+At this point we select "Parcatheme" on Shell layer inside "Appearance" section and we finish.
