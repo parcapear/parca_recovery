@@ -44,7 +44,7 @@ Now after install completely all, it's time to modify our UI. For that we need t
 
 <img src="./gnome-tweaks1.png"></img>
 
-So here you have diferents options for customization. Actually I just installed my personal theme.
+So here you have diferents options for customization. By the way, this recovery installed my personal theme.
 
 | Section          | File              |
 | ---------------- | ----------------- |
