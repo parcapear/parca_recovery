@@ -40,7 +40,7 @@ And yeah, it will be all. Now just wait for complete the installation. In some c
 
 ### Customization
 
-Now after install completely all, it's time to modify our UI. For that we need to open our aplications and search for "Tweaks", if you have your system in spanish it could appear as "Retoques". Here we need to see something like this:
+Now after install completely all, it's time to modify our UI. For that we need to open our aplications and search for "Tweaks", if you have your system in spanish it could appear as "Retoques". We'll see something like this:
 
 <img src="./gnome-tweaks1.png"></img>
 
