@@ -50,7 +50,7 @@ So here you have diferents options for customization. By the way, this recovery 
 | **Cursor**       | Parcacursor       |
 | **Icons**        | WhiteSur-red-dark |
 
-After all, to activate our shell customization, we just need to go "Extensions" and activate "user-themes".
+After all, to activate our shell customization, we just need to go "Extensions" and activate [user-themes](https://extensions.gnome.org/extension/19/user-themes/)
 
 <img src="./gnome-tweaks3.png"></img>
 
